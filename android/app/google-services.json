@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "172118463747",
+    "project_id": "puppysfun-5ff68",
+    "storage_bucket": "puppysfun-5ff68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172118463747:android:b9f88bb586b032b9ca4536",
+        "android_client_info": {
+          "package_name": "com.example.flutter_puppysfun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172118463747-4ae0fa3e09om8knagojbfj1ren2buh1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdpTfObA8YzNtnGUGJCcUqSSzgIqeASfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172118463747-4ae0fa3e09om8knagojbfj1ren2buh1h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "172118463747-idbaof747o5buq9gkaqpb31p7dji4h5j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "funs.puppys.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
